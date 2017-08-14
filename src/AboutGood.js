@@ -139,6 +139,7 @@ render() {
           <div id="main">
             <div id="article">
               <header className="header">
+                  <h1>About Acme - The Bad Version</h1>
               </header>
               <div className="content">
                 <h2 className="content-subhead">Acme's Place in  History</h2>
